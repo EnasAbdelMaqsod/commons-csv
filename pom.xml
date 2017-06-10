@@ -183,7 +183,7 @@ CSV files of various types.
 	    <exclude>**/CSVParserTest.java</exclude>
 	    <exclude>**/CSVFormatPredefinedTest.java</exclude>
 	    <exclude>**/FercGovTest.java</exclude>
-	    <exclude>**/CSVFileParserTest</exclude>
+	    <exclude>**/CSVFileParserTest.java</exclude>
           </excludes>
         </configuration>
       </plugin> 
