@@ -182,6 +182,7 @@ CSV files of various types.
 	    <exclude>**/CSVPrinterTest.java</exclude>
 	    <exclude>**/CSVParserTest.java</exclude>
 	    <exclude>**/CSVFormatPredefinedTest.java</exclude>
+	    <exclude>**/FercGovTest.java</exclude>
           </excludes>
         </configuration>
       </plugin> 
