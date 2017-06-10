@@ -189,7 +189,6 @@ CSV files of various types.
 					<skip>true</skip>
 				</configuration>
 			</plugin>
-			<plugin>
         <plugin>
 				<artifactId>maven-failsafe-plugin</artifactId>
 				<version>2.19</version>
