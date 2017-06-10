@@ -185,6 +185,7 @@ CSV files of various types.
 	    <exclude>**/FercGovTest.java</exclude>
 	    <exclude>**/CSVFileParserTest.java</exclude>
 	    <exclude>**/CSVFormatTest.java</exclude>
+            <exclude>**/LexerTest.java</exclude>
           </excludes>
         </configuration>
       </plugin> 
